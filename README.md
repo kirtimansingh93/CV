@@ -29,21 +29,21 @@ Visit my [GitHub](https://github.com/kirtimansingh93 "Checkout my Github!") for 
 ## Skills
 
 
-### Self-Driven Independent Learner
+#### Self-Driven Independent Learner
 
 When I chose the path of a software engineer, I did so with the idea that it must become my bread and butter and concluded that programming is a skill that I must endeavor to master. My single page front-end [Twitter Clone](https://github.com/kirtimansingh93/chitter-frontend) with a pre-prepared backend API is an example I’m proud of.  Although my JavaScript knowledge was fairly limited at the time, I wanted to pursue it using JavaScript. I taught myself JavaScript basics, followed by asynchronous javascript and DOM manipulation.
 
 I am also currently teaching myself how to invest in the Share Market. By learning online and reading books on technical analysis, I have become a much more confident trader. I have found the "chat with traders" podcast extremely insightful where various traders provide valuable advice for those who are self learning as well as on how to develop a trader's psychology. Another book that has taught me a lot on technical analysis is "How to Make Money in Stocks" by William J. O'Neil, where the author analyze's the biggest moves of US stocks in the last century and explains what chart patterns were common to these movements. I have managed to grow my portfolio by almost 50% over 6 months, having made about 3000GBP in profit.
 
 
-### Effective Communication with Others
+#### Effective Communication with Others
 
 My experience of working with other people range from being insistent with group members at Makers regarding having regular meetings to either, catch members up with the progress of the project or slow members down from going off on a tangent to the objective. I achieved this by holding daily stand-ups and retrospectives, as well as using trello to create tickets, so that each person knew what they were doing, what others were doing and what needed to be done.
 
 I led the cricket society at University alongside fellow team members, to coordinate events with other clubs and societies and arranging matches or tournaments with other nearby cricket clubs and universities. In my opinion, it is important to be both considerate as well as honest towards others in order to maintain a healthy work relationship.
 
 
-### Detail Orientated
+#### Detail Orientated
 
 As an accounts intern, the ability to manipulate data accurately requires constant focus on the task at hand. When looking at a client's bank statements and invoices, and recording the transactions into ledger accounts, I must double check to insure that the data is correct, or the accounts won't balance. This is similar to debugging code where a small error can result in the program not running as intended. I have developed the habit of double checking my code to check whether I have not made any accidental errors.
 
@@ -88,17 +88,16 @@ I believe that attention to detail is the difference between mediocre results an
 -	Coordinated with letting agencies to decide on an office for expansion in Birmingham.
 -	Assisted with answering the phone and general administration duties.
 
-**Sainsbury, Buckingham, UK**
+**Sainsbury, Buckingham, UK**  
 *Customer Assistant (November 2016 - March 2017)*
 
 **Sykes & Co, Buckingham, UK**   
-*Sales Floor Assistant at Ralph Lauren, Bicester (February 2016 - September 2016)*
+*Sales Floor Assistant at Ralph Lauren, Bicester (February 2016 - September 2016)*  
+*Catering Assistant at Silverstone Race Track, Towcester (February 2016 - April 2016)*  
 
-*Catering Assistant at Silverstone Race Track, Towcester (February 2016 - April 2016)*
 
-
-**ICRA Management Consulting Services Limited, New Delhi, India**
-*Intern (June 2014 - August 2014)*
+**ICRA Management Consulting Services Limited, New Delhi, India**    
+*Intern (June 2014 - August 2014)*  
 -	Studied validation methods of credit rating models using Basel prescribed statistical tests.
 -	Used excel to generate Receiver Operating Curves (ROC) and Cumulative Accuracy Profiles (CAP) for different risk data of client companies.
 -	Learned Base and Advanced SAS (Statistical Analysis System).
