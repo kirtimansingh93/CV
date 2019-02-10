@@ -8,12 +8,11 @@
 [Interests ](#interests)
 
 
-
 Aspiring **Full Stack Software Engineer** determined to find a role in which I can add value and grow to become a world class software engineer. As a recent graduate of a leading software development boot camp, [Makers](https://makers.tech/), I strive to adhere to practices such as TDD/BDD and adopt an Agile development approach. Currently I am focused on enhancing my proficiency in building full stack JavaScript applications with frameworks such as React and Node.
 
-Previously I was pursuing a career in accounting, however I found it rather uninspiring and monotonous. After exploring various online resources about coding, I arrived at the conclusion that it very much appealed to my logic and found it hugely stimulating. I recognized that coding triggered within me a compulsive desire to solve problems and allowed me the flexibility to produce innovative solutions to these problems.
+Previously I was pursuing a career in accounting where being meticulous was crucial to relaying the correct information. I decided that I wanted to transfer my skills to an industry where I can continuously utilize and broaden my abilities. Out of curiosity, I experimented with writing code on websites such as codeacademy and freecodecamp and found that I enjoy solving logical problems. I concluded that I would thrive in an industry where building useful things and experimenting with new technologies was the norm.
 
-With the intention to dive head first into this new industry, I attended Makers, where I learned that not all problems can be solved on your own, rather a collaborative effort is fundamental to problem solving.
+With the intention to dive head first into the tech industry, I attended Makers, where I learned that not everything can be solved on your own, rather a collaborative effort is fundamental to problem solving.
 
 
 ## Projects
@@ -22,40 +21,43 @@ Visit my [GitHub](https://github.com/kirtimansingh93 "Checkout my Github!") for 
 | Title | Description | Technologies Used |
 |--|--|--|
 | [Bank Tech Test](https://github.com/kirtimansingh93/Bank-Tech-Test) | Tech test practice: Test driven bank simulator in which you can deposit and withdraw an amount and print a statement.   | Ruby, RSpec |
-| [Boris Bikes](https://github.com/kirtimansingh93/Boris-Bikes) | Command Line App simulating a boris bike, a docking station and their interactions. This was my first project in Makers where I learned TDD/BDD and how to approach a task in an agile way. | Rspec(testing), SimpleCov(testing coverage) and Rubocop(formatting errors). |
-| [Acebook](https://github.com/kirtimansingh93/acebook-Team-and-a-half) | As a group we were tasked to create a Facebook clone using Ruby on Rails. I found working as a team quite a challenge, however I did pick up on many dos and don'ts for the future! You can check out the live version [here](https://murmuring-earth-81334.herokuapp.com/)| Ruby on Rails, HTML, CSS, Javascript, jQuery, PostgreSQL, Heroku, Travis CI, Rspec, and Capybara |
-<!-- | [Project Name](https://github.com/) | Description | Stack | -->
+| [Boris Bikes](https://github.com/kirtimansingh93/Boris-Bikes) | Command Line App simulating a boris bike, a docking station and their interactions. This was my first project in Makers where I learned TDD/BDD and how to approach a task in an agile way. | Rspec, SimpleCov and Rubocop. |
+| [Acebook](https://github.com/kirtimansingh93/acebook-Team-and-a-half) | As a group we were tasked to create a Facebook clone using Ruby on Rails. I found working as a team quite a challenge, however I did pick up on many dos and don'ts for the future! You can check out the live version [here](https://murmuring-earth-81334.herokuapp.com/)| Ruby on Rails, HTML, CSS, Javascript, jQuery, PostgreSQL, Heroku, Travis CI, Rspec, Capybara and Trello |
+
 
 
 ## Skills
 
-#### Self-Driven Independent Learner
-I do not believe that learning is only for school or job purposes. I believe that learning is a never ending journey. When I chose the path of a software engineer, I did so with the idea that it must become my bread and butter and concluded that programming is a skill that I must endeavor to master.
 
-One of the projects that I undertook at makers was to make a single page front end for a [Twitter Clone](https://github.com/kirtimansingh93/chitter-frontend) which had a pre-prepared backend api. Although my JavaScript knowledge was fairly limited at the time, I wanted to pursue it using JavaScript. I taught myself JavaScript basics, followed by asynchronous javascript and DOM manipulation. I managed to piece together whatever I learned and created a very basic version of the app where I can create users, authenticate users and post tweets to the api, however it is still a working progress and I am sure there is a lot left to learn. Similarly I created a [Bookmarker](https://github.com/kirtimansingh93/Bookmarker) application where the user can add and save bookmarks which are stored in the local storage of the browser. This project allowed me to learn how to use local storage and practice DOM techniques.
+### Self-Driven Independent Learner
 
-Whenever I am in a new working environment, I realize that I have to actively adjust by taking initiative to learn the ins and outs of my responsibilities. In my previous work as an Accounting Intern, I had to teach myself various practical skills such as expanding my knowledge of excel for bookkeeping and account management as well as learning how to manage the payroll system.
+When I chose the path of a software engineer, I did so with the idea that it must become my bread and butter and concluded that programming is a skill that I must endeavor to master. My single page front-end [Twitter Clone](https://github.com/kirtimansingh93/chitter-frontend) with a pre-prepared backend API is an example I’m proud of.  Although my JavaScript knowledge was fairly limited at the time, I wanted to pursue it using JavaScript. I taught myself JavaScript basics, followed by asynchronous javascript and DOM manipulation.
 
-I am also currently teaching myself how to invest in the share market. By learning online and reading books on technical analysis, I have become a much more confident trader.
+I am also currently teaching myself how to invest in the Share Market. By learning online and reading books on technical analysis, I have become a much more confident trader. I have found the "chat with traders" podcast extremely insightful where various traders provide valuable advice for those who are self learning as well as on how to develop a trader's psychology. Another book that has taught me a lot on technical analysis is "How to Make Money in Stocks" by William J. O'Neil, where the author analyze's the biggest moves of US stocks in the last century and explains what chart patterns were common to these movements. I have managed to grow my portfolio by almost 50% over 6 months, having made about 3000GBP in profit.
 
-#### Effective Communication with Others
-I have been told on numerous occasions by friends and family that I am a "people's person". In this day and age it is crucial to be able to work well with others. I believe that I possess the emotional intelligence skills in order to collaborate with others effectively. My experience of working with other people range from being insistent with group members at Makers regarding having regular meetings to either, catch members up with the progress of the project, or slow members down from going off on a tangent to the objective, to leading the cricket society at University alongside fellow team members, to coordinate events with other clubs and societies and arranging matches or tournaments with other nearby cricket clubs and universities. In my opinion, it is important to be both considerate as well as honest towards others in order to maintain a healthy work relationship.
+
+### Effective Communication with Others
+
+My experience of working with other people range from being insistent with group members at Makers regarding having regular meetings to either, catch members up with the progress of the project or slow members down from going off on a tangent to the objective. I achieved this by holding daily stand-ups and retrospectives, as well as using trello to create tickets, so that each person knew what they were doing, what others were doing and what needed to be done.
+
+I led the cricket society at University alongside fellow team members, to coordinate events with other clubs and societies and arranging matches or tournaments with other nearby cricket clubs and universities. In my opinion, it is important to be both considerate as well as honest towards others in order to maintain a healthy work relationship.
+
+
+### Detail Orientated
+
+As an accounts intern, the ability to manipulate data accurately requires constant focus on the task at hand. When looking at a client's bank statements and invoices, and recording the transactions into ledger accounts, I must double check to insure that the data is correct, or the accounts won't balance. This is similar to debugging code where a small error can result in the program not running as intended. I have developed the habit of double checking my code to check whether I have not made any accidental errors.
+
+I believe that attention to detail is the difference between mediocre results and great results.  I have witnessed the most improvements in any physical exercise, whether it be yoga or playing a sport, by paying close attention to my form/technique. Learning correct technique of table tennis made me a considerably more consistent player, and focusing on correct alignment during yoga poses helped me progress onto more difficult poses.
 
 
 ## Education
 
 #### Makers (July 2018 - October 2018)
 
-I attended a 16 week Software Engineering Bootcamp where I learnt programming fundamentals and best practices: OOP, BDD, TDD, Pair Programming, MVC architecture, SOLID principles, Agile methodologies. I believe that Makers provided me with a strong foundation to self guide my learning process with the aim of becoming a high calibre Software Engineer.
-
-Although I found the course challenging and had very basic programming knowledge at the start of the course, I did not let that hinder my passion to learn. I persevered with the course, endeavoring to retain all that I could within them 16 weeks. I have utilized many resources (books, youtube, coding websites) in order to support my learning and will continue to do so throughout my career. From my perspective, if I were to work in a team, I would not like that my lack of knowledge would inconvenience my team, therefore it is imperative for me to continually widen my knowledge and skills base. Fortunately, when it comes to coding, there are unlimited amount of resources out there for me to benefit from.
-
-At Makers I have had plenty of experience pair programming and working in groups. Pair programming has been greatly beneficial, especially when following a certain configuration such as the ping pong technique. This way both partners learn how the other solves problems differently. These experiences have given me greater insight on how best to break down problems into manageable chunks. Another essential lesson I have gained from working in larger groups is that communication between all members is absolutely imperative to the success of the group. During group work, I have been insistent that we held regular stand ups, code reviews and retro's, I appreciate how difficult it is to get everyone on the same page, however without this organisation, the team will fail to collaborate effectively.
-
 - Languages and Frameworks: Ruby, Ruby on Rails, Sinatra, JavaScript, jQuery, HTML, CSS, Bootstrap.
 - Test Frameworks: RSpec, Capybara, Jasmine, Jest
 - Proficient with use of Git and Github.
-- Programming concepts and practices: OOP, TDD, MVC, Agile, Pair Programming,
+- Programming concepts and practices: OOP, TDD, BDD, MVC, Agile, Pair Programming
 
 
 #### University of Buckingham, Buckingham, UK, (2015-2017)
@@ -88,23 +90,12 @@ At Makers I have had plenty of experience pair programming and working in groups
 
 **Sainsbury, Buckingham, UK**
 *Customer Assistant (November 2016 - March 2017)*
-- Unloaded deliveries into the stock room.
-- Replenished items on the shop floor and organized them in their respective aisles.
-- Handled customer interactions on the counter, including operating the till.
-- Aided customers with queries about products or services.
-- Maintained cleanliness of the store.
-- Communicated effectively with peers to achieve sales goals for the month.
 
 **Sykes & Co, Buckingham, UK**   
 *Sales Floor Assistant at Ralph Lauren, Bicester (February 2016 - September 2016)*
--	Assisted customers with apparel selection and sizing.
--	Arranged the clothing and kept the store in an orderly fashion.
--	Coordinated with other members of the sales force to maintain efficiency.
--	Approached customers and politely asked questions to understand their needs and offer advice.
+
 *Catering Assistant at Silverstone Race Track, Towcester (February 2016 - April 2016)*
-- Offered snacks and refreshments at meetings and expo's to guests.
-- Served food to guests at lunch and dinner events.
-- Worked in large groups to set up the venue to cater for hundreds of guests.
+
 
 **ICRA Management Consulting Services Limited, New Delhi, India**
 *Intern (June 2014 - August 2014)*
@@ -117,6 +108,4 @@ At Makers I have had plenty of experience pair programming and working in groups
 
 - Yoga and Meditation: Completed a month long, 200 hour yoga teacher training course in Rishikesh, India (Yoga capital of the world). I also partook in a 10 day Vipassana Meditation retreat in Jaipur, India. Yoga and Meditation are absolutely essential for my health and wellbeing and have become an integral part of my life.  
 - Sports: Arranged cricket training and matches against other universities as the president of the cricket society at the University of Buckingham. Avid table tennis player! During my school years, I trained in martial arts such as taekwondo and kung-fu as well as boxing!
-- Investing: In my spare time I am learning how to trade in the stock market!
-- Gym: I enjoy a good lifting session. I try to go at least 3 times a week.
-- Travel: Cliche, I know, but I love experiencing new cultures, encountering different crowds of people, witnessing various landscapes and ways of life.
+
