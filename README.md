@@ -45,7 +45,7 @@ I led the cricket society at University alongside fellow team members, to coordi
 
 #### Detail Orientated
 
-As an accounts intern, the ability to manipulate data accurately requires constant focus on the task at hand. When looking at a client's bank statements and invoices, and recording the transactions into ledger accounts, I must double check to insure that the data is correct, or the accounts won't balance. This is similar to debugging code where a small error can result in the program not running as intended. I have developed the habit of double checking my code to check whether I have not made any accidental errors.
+As an accounts intern, the ability to manipulate data accurately requires constant focus on the task at hand. When looking at a client's bank statements and invoices, and recording the transactions into ledger accounts, I must double check to insure that the data is correct, or the accounts won't balance. This is similar to debugging code where a small error can result in the program not running as intended. I have developed the habit of double checking my code to check whether I have not made any accidental errors and deciphering error messages in order to effectively ammend my code.
 
 I believe that attention to detail is the difference between mediocre results and great results.  I have witnessed the most improvements in any physical exercise, whether it be yoga or playing a sport, by paying close attention to my form/technique. Learning correct technique of table tennis made me a considerably more consistent player, and focusing on correct alignment during yoga poses helped me progress onto more difficult poses.
 
@@ -55,7 +55,7 @@ I believe that attention to detail is the difference between mediocre results an
 #### Makers (July 2018 - October 2018)
 
 - Languages and Frameworks: Ruby, Ruby on Rails, Sinatra, JavaScript, jQuery, HTML, CSS, Bootstrap.
-- Test Frameworks: RSpec, Capybara, Jasmine, Jest
+- Test Frameworks: RSpec, Capybara, Jasmine, Jest, Cypress
 - Proficient with use of Git and Github.
 - Programming concepts and practices: OOP, TDD, BDD, MVC, Agile, Pair Programming
 
