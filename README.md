@@ -69,7 +69,6 @@ I believe that attention to detail is the difference between mediocre results an
 
 - Mathematics and Economics
 - Took courses in Calculus, Statistics Physics, Economics, Writing and Hindi as a second language.
-- Had to leave prematurely due to financial reasons.
 
 #### City of London School for Boys, London, UK, (2004-2012)
 
