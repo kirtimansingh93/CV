@@ -62,7 +62,7 @@ I believe that attention to detail is the difference between mediocre results an
 
 #### University of Buckingham, Buckingham, UK, (2015-2017)
 
-- Bachelors of Accounting and Financial Management
+- Accounting and Financial Management
 - Took courses in Accounting, Business, Law, Taxation, Financial Management, Psychology and Entrepreneurship.
 
 #### New York University, New York City, USA, (2012-2014)
@@ -80,7 +80,7 @@ I believe that attention to detail is the difference between mediocre results an
 ## Experience
 
 **Medic Accountants, London, UK**    
-*Accounts Intern (May 2017 - July 2017)*
+*Accounts Intern (June 2017 - July 2017)*
 - Practiced use of excel and gained knowledge of double entry bookkeeping and managing accounts
 - Responsible for processing receipts, invoices, bank reconciliations, and general finance related within the department.
 -	Gained experience using Payroll Manager and Taxcalc in order to send clients monthly payroll reports.
@@ -89,7 +89,7 @@ I believe that attention to detail is the difference between mediocre results an
 -	Assisted with answering the phone and general administration duties.
 
 **Sainsbury, Buckingham, UK**  
-*Customer Assistant (November 2016 - March 2017)*
+*Customer Assistant (December 2016 - March 2017)*
 
 **Sykes & Co, Buckingham, UK**   
 *Sales Floor Assistant at Ralph Lauren, Bicester (February 2016 - September 2016)*  
